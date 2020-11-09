@@ -1,0 +1,19 @@
+.banner{
+	background-image: url(../../images/singapura.png);
+	color: white;
+	padding: 150px 00px;
+	background-size: cover;
+	text-align: center;
+	background-position: center
+}
+
+.banner h1 {
+	font-size: 50px;
+	font-family: Helvetica;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+}
+
